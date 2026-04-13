@@ -17,6 +17,7 @@ export default {
         new Link('solid-pixel', '194.164.125.5:6024/'),
         new Link('pfh', 'parhle.glitch.me'),
         new Link("unreleased", "drive.google.com/drive/u/4/folders/16BfK1RS1Ybqcy22eweRqe8VSIoE5Wso0"),
-        new Link("linkedin", "www.linkedin.com/in/mueeeeed")
+        new Link("linkedin", "www.linkedin.com/in/mueeeeed"),
+        new Link("wkp", "wahaj-portfolio-four.vercel.app")
     ]
 }
